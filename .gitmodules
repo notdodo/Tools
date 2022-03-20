@@ -1,0 +1,264 @@
+[submodule "AD/Active-Directory-Exploitation-Cheat-Sheet"]
+	path = AD/Active-Directory-Exploitation-Cheat-Sheet
+	url = https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet.git
+	branch = master
+[submodule "AD/ADACLScanner"]
+	path = AD/ADACLScanner
+	url = https://github.com/canix1/ADACLScanner.git
+	branch = master
+[submodule "AD/ADAPE-Script"]
+	path = AD/ADAPE-Script
+	url = https://github.com/hausec/ADAPE-Script.git
+	branch = master
+[submodule "AD/AD-Attack-Defense"]
+	path = AD/AD-Attack-Defense
+	url = https://github.com/infosecn1nja/AD-Attack-Defense.git
+	branch = master
+[submodule "AD/adidnsdump"]
+	path = AD/adidnsdump
+	url = https://github.com/dirkjanm/adidnsdump.git
+	branch = master
+[submodule "AD/ADRecon"]
+	path = AD/ADRecon
+	url = https://github.com/adrecon/ADRecon.git
+	branch = master
+[submodule "AD/adsec"]
+	path = AD/adsec
+	url = https://github.com/cfalta/adsec.git
+	branch = main
+[submodule "AD/ADTimeline"]
+	path = AD/ADTimeline
+	url = https://github.com/ANSSI-FR/ADTimeline.git
+	branch = master
+[submodule "AD/Amsi-Bypass-Powershell"]
+	path = AD/Amsi-Bypass-Powershell
+	url = https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell.git
+	branch = master
+[submodule "AD/Chimera"]
+	path = AD/Chimera
+	url = https://github.com/tokyoneon/Chimera.git
+	branch = master
+[submodule "AD/Internal-Monologue"]
+	path = AD/Internal-Monologue
+	url = https://github.com/eladshamir/Internal-Monologue.git
+	branch = master
+[submodule "AD/Inveigh"]
+	path = AD/Inveigh
+	url = https://github.com/Kevin-Robertson/Inveigh.git
+	branch = master
+[submodule "AD/kekeo"]
+	path = AD/kekeo
+	url = https://github.com/gentilkiwi/kekeo.git
+	branch = master
+[submodule "AD/mimikittenz"]
+	path = AD/mimikittenz
+	url = https://github.com/orlyjamie/mimikittenz.git
+	branch = master
+[submodule "AD/msldap"]
+	path = AD/msldap
+	url = https://github.com/skelsec/msldap.git
+	branch = master
+[submodule "AD/PetitPotam"]
+	path = AD/PetitPotam
+	url = https://github.com/topotam/PetitPotam.git
+	branch = main
+[submodule "AD/pingcastle"]
+	path = AD/pingcastle
+	url = https://github.com/vletoux/pingcastle.git
+	branch = master
+[submodule "AD/PowerSharpPack"]
+	path = AD/PowerSharpPack
+	url = https://github.com/S3cur3Th1sSh1t/PowerSharpPack.git
+	branch = master
+[submodule "AD/ReLock"]
+	path = AD/ReLock
+	url = https://github.com/cftad/ReLock.git
+	branch = master
+[submodule "AD/RemotePotato0"]
+	path = AD/RemotePotato0
+	url = https://github.com/antonioCoco/RemotePotato0.git
+	branch = main
+[submodule "AD/Responder"]
+	path = AD/Responder
+	url = https://github.com/lgandx/Responder.git
+	branch = master
+[submodule "AD/Rubeus"]
+	path = AD/Rubeus
+	url = https://github.com/GhostPack/Rubeus.git
+	branch = master
+[submodule "AD/Watson"]
+	path = AD/Watson
+	url = https://github.com/rasta-mouse/Watson.git
+	branch = master
+[submodule "Cloud/CloudPentestCheatsheets"]
+	path = Cloud/CloudPentestCheatsheets
+	url = https://github.com/dafthack/CloudPentestCheatsheets.git
+	branch = master
+[submodule "Cloud/opencspm"]
+	path = Cloud/opencspm
+	url = https://github.com/OpenCSPM/opencspm.git
+	branch = main
+[submodule "Cloud/pacu"]
+	path = Cloud/pacu
+	url = https://github.com/RhinoSecurityLabs/pacu.git
+	branch = master
+[submodule "Cloud/ScoutSuite"]
+	path = Cloud/ScoutSuite
+	url = https://github.com/nccgroup/ScoutSuite.git
+	branch = master
+[submodule "Cracking/john"]
+	path = Cracking/john
+	url = https://github.com/openwall/john
+	branch = bleeding-jumbo
+[submodule "Discovery/Amass"]
+	path = Discovery/Amass
+	url = https://github.com/OWASP/Amass.git
+	branch = master
+[submodule "Discovery/dirsearch"]
+	path = Discovery/dirsearch
+	url = https://github.com/maurosoria/dirsearch.git
+	branch = master
+[submodule "Discovery/dnsx"]
+	path = Discovery/dnsx
+	url = https://github.com/projectdiscovery/dnsx.git
+	branch = master
+[submodule "Discovery/ffuf"]
+	path = Discovery/ffuf
+	url = https://github.com/ffuf/ffuf.git
+	branch = master
+[submodule "Discovery/htcap"]
+	path = Discovery/htcap
+	url = https://github.com/fcavallarin/htcap.git
+	branch = master
+[submodule "Discovery/httpx"]
+	path = Discovery/httpx
+	url = https://github.com/projectdiscovery/httpx.git
+	branch = master
+[submodule "Discovery/SecLists"]
+	path = Discovery/SecLists
+	url = https://github.com/danielmiessler/SecLists.git
+	branch = master
+[submodule "Scan/monkey"]
+	path = Scan/monkey
+	url = https://github.com/guardicore/monkey.git
+	branch = master
+[submodule "Scan/nuclei"]
+	path = Scan/nuclei
+	url = https://github.com/projectdiscovery/nuclei.git
+	branch = master
+[submodule "AD/Active-Directory-Exploitation-Cheat-Sheet-2"]
+	path = AD/Active-Directory-Exploitation-Cheat-Sheet-2
+	url = https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet.git
+	branch = master
+[submodule "Forensics/RegRipper3.0"]
+	path = Forensics/RegRipper3.0
+	url = https://github.com/keydet89/RegRipper3.0.git
+	branch = master
+[submodule "AD/SharpGPOAbuse"]
+	path = AD/SharpGPOAbuse
+	url = https://github.com/FSecureLABS/SharpGPOAbuse.git
+	branch = master
+[submodule "AD/BloodHound"]
+	path = AD/BloodHound
+	url = https://github.com/BloodHoundAD/BloodHound.git
+	branch = master
+[submodule "AD/PrintNightmare-Python-CSharp-CVE-2021-1675"]
+	path = AD/PrintNightmare-Python-CSharp-CVE-2021-1675
+	url = https://github.com/cube0x0/CVE-2021-1675.git
+	branch = main
+[submodule "AD/PrintNightmare-pwsh-CVE-2021-1675"]
+	path = AD/PrintNightmare-pwsh-CVE-2021-1675
+	url = https://github.com/calebstewart/CVE-2021-1675.git
+	branch = main
+[submodule "AD/Invoke-ZeroLogon"]
+	path = AD/Invoke-ZeroLogon
+	url = https://github.com/BC-SECURITY/Invoke-ZeroLogon.git
+	branch = master
+[submodule "C2/Empire"]
+	path = C2/Empire
+	url = https://github.com/BC-SECURITY/Empire.git
+	branch = master
+[submodule "C2/Starkiller"]
+	path = C2/Starkiller
+	url = https://github.com/BC-SECURITY/Starkiller.git
+	branch = master
+[submodule "C2/Malleable-C2-Profiles"]
+	path = C2/Malleable-C2-Profiles
+	url = https://github.com/BC-SECURITY/Malleable-C2-Profiles.git
+	branch = master
+[submodule "Mobile/drozer"]
+	path = Mobile/drozer
+	url = https://github.com/FSecureLABS/drozer.git
+	branch = master
+[submodule "Cloud/PMapper"]
+	path = Cloud/PMapper
+	url = https://github.com/nccgroup/PMapper.git
+	branch = master
+[submodule "Cloud/enumerate-iam"]
+	path = Cloud/enumerate-iam
+	url = https://github.com/notdodo/enumerate-iam.git
+	branch = master
+[submodule "Discovery/gitleaks"]
+	path = Discovery/gitleaks
+	url = https://github.com/zricethezav/gitleaks.git
+	branch = master
+[submodule "Malware-Analysis/flare-vm"]
+	path = Malware-Analysis/flare-vm
+	url = https://github.com/fireeye/flare-vm.git
+	branch = master
+[submodule "Mobile/Mobile-Security-Framework-MobSF"]
+	path = Mobile/Mobile-Security-Framework-MobSF
+	url = https://github.com/MobSF/Mobile-Security-Framework-MobSF.git
+	branch = master
+[submodule "Scan/sqlmap"]
+	path = Scan/sqlmap
+	url = https://github.com/sqlmapproject/sqlmap.git
+	branch = master
+[submodule "Cracking/pantagrule"]
+	path = Cracking/pantagrule
+	url = https://github.com/rarecoil/pantagrule.git
+	branch = master
+[submodule "WiFi/airgeddon"]
+	path = WiFi/airgeddon
+	url = https://github.com/v1s1t0r1sh3r3/airgeddon.git
+	branch = master
+[submodule "Cracking/passphrase-wordlist"]
+	path = Cracking/passphrase-wordlist
+	url = https://github.com/initstring/passphrase-wordlist.git
+	branch = master
+[submodule "Scan/GitTools"]
+	path = Scan/GitTools
+	url = https://github.com/internetwache/GitTools.git
+        branch = master
+[submodule "Scan/rdpscan"]
+	path = Scan/rdpscan
+	url = https://github.com/robertdavidgraham/rdpscan.git
+        branch = master
+[submodule "Forensics/evtx"]
+	path = Forensics/evtx
+	url = https://github.com/omerbenamram/evtx.git
+        branch = master
+[submodule "Cloud/s3-inspector"]
+	path = Cloud/s3-inspector
+	url = https://github.com/clario-tech/s3-inspector.git
+        branch = master
+[submodule "Cloud/cloud_enum"]
+	path = Cloud/cloud_enum
+	url = https://github.com/initstring/cloud_enum.git
+        branch = master
+[submodule "Cloud/AADInternals"]
+	path = Cloud/AADInternals
+	url = https://github.com/Gerenios/AADInternals.git
+        branch = master
+[submodule "Cloud/MicroBurst"]
+	path = Cloud/MicroBurst
+	url = https://github.com/NetSPI/MicroBurst
+        branch = master
+[submodule "Cloud/o365creeper"]
+	path = Cloud/o365creeper
+	url = https://github.com/LMGsec/o365creeper
+        branch = master
+[submodule "Cloud/MSOLSpray"]
+	path = Cloud/MSOLSpray
+	url = https://github.com/dafthack/MSOLSpray
+        branch = master
