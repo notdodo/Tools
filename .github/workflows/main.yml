@@ -29,5 +29,4 @@ jobs:
         run: |
           git config --global user.name ${{ secrets.USER_NAME }}
           git config --global user.email ${{ secrets.USER_EMAIL }}
-          git commit -am "Update submodules"
-          git push
+          git diff --quiet && git diff --staged --quiet || git commit -am "Updated submodules" && git push
