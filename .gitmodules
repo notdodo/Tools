@@ -262,3 +262,10 @@
 	path = Cloud/MSOLSpray
 	url = https://github.com/dafthack/MSOLSpray
         branch = master
+[submodule "Scan/gitdumper"]
+	path = Scan/gitdumper
+	url = https://github.com/arthaud/git-dumper.git
+        branch = master
+[submodule "Forensics/msg-to-eml"]
+	path = Forensics/msg-to-eml
+	url = https://github.com/JoshData/convert-outlook-msg-file.git
