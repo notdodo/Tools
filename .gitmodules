@@ -133,7 +133,7 @@
 [submodule "Discovery/httpx"]
 	path = Discovery/httpx
 	url = https://github.com/projectdiscovery/httpx.git
-	branch = master
+	branch = main
 [submodule "Discovery/SecLists"]
 	path = Discovery/SecLists
 	url = https://github.com/danielmiessler/SecLists.git
