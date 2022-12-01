@@ -177,7 +177,7 @@
 [submodule "C2/Empire"]
 	path = C2/Empire
 	url = https://github.com/BC-SECURITY/Empire.git
-	branch = master
+	branch = main
 [submodule "C2/Starkiller"]
 	path = C2/Starkiller
 	url = https://github.com/BC-SECURITY/Starkiller.git
