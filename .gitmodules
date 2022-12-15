@@ -145,7 +145,7 @@
 [submodule "Scan/nuclei"]
 	path = Scan/nuclei
 	url = https://github.com/projectdiscovery/nuclei.git
-	branch = master
+	branch = main
 [submodule "AD/Active-Directory-Exploitation-Cheat-Sheet-2"]
 	path = AD/Active-Directory-Exploitation-Cheat-Sheet-2
 	url = https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet.git
@@ -205,7 +205,7 @@
 [submodule "Malware-Analysis/flare-vm"]
 	path = Malware-Analysis/flare-vm
 	url = https://github.com/fireeye/flare-vm.git
-	branch = master
+	branch = main
 [submodule "Mobile/Mobile-Security-Framework-MobSF"]
 	path = Mobile/Mobile-Security-Framework-MobSF
 	url = https://github.com/MobSF/Mobile-Security-Framework-MobSF.git
