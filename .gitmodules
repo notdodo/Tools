@@ -181,7 +181,7 @@
 [submodule "C2/Starkiller"]
 	path = C2/Starkiller
 	url = https://github.com/BC-SECURITY/Starkiller.git
-	branch = master
+	branch = main
 [submodule "C2/Malleable-C2-Profiles"]
 	path = C2/Malleable-C2-Profiles
 	url = https://github.com/BC-SECURITY/Malleable-C2-Profiles.git
