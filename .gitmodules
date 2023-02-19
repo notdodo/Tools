@@ -121,7 +121,7 @@
 [submodule "Discovery/dnsx"]
 	path = Discovery/dnsx
 	url = https://github.com/projectdiscovery/dnsx.git
-	branch = master
+	branch = main
 [submodule "Discovery/ffuf"]
 	path = Discovery/ffuf
 	url = https://github.com/ffuf/ffuf.git
