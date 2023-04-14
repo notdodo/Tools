@@ -229,43 +229,48 @@
 [submodule "Scan/GitTools"]
 	path = Scan/GitTools
 	url = https://github.com/internetwache/GitTools.git
-        branch = master
+  branch = master
 [submodule "Scan/rdpscan"]
 	path = Scan/rdpscan
 	url = https://github.com/robertdavidgraham/rdpscan.git
-        branch = master
+  branch = master
 [submodule "Forensics/evtx"]
 	path = Forensics/evtx
 	url = https://github.com/omerbenamram/evtx.git
-        branch = master
+  branch = master
 [submodule "Cloud/s3-inspector"]
 	path = Cloud/s3-inspector
 	url = https://github.com/clario-tech/s3-inspector.git
-        branch = master
+  branch = master
 [submodule "Cloud/cloud_enum"]
 	path = Cloud/cloud_enum
 	url = https://github.com/initstring/cloud_enum.git
-        branch = master
+  branch = master
 [submodule "Cloud/AADInternals"]
 	path = Cloud/AADInternals
 	url = https://github.com/Gerenios/AADInternals.git
-        branch = master
+  branch = master
 [submodule "Cloud/MicroBurst"]
 	path = Cloud/MicroBurst
 	url = https://github.com/NetSPI/MicroBurst
-        branch = master
+  branch = master
 [submodule "Cloud/o365creeper"]
 	path = Cloud/o365creeper
 	url = https://github.com/LMGsec/o365creeper
-        branch = master
+  branch = master
 [submodule "Cloud/MSOLSpray"]
 	path = Cloud/MSOLSpray
 	url = https://github.com/dafthack/MSOLSpray
-        branch = master
+  branch = master
 [submodule "Scan/gitdumper"]
 	path = Scan/gitdumper
 	url = https://github.com/arthaud/git-dumper.git
-        branch = master
+  branch = master
 [submodule "Forensics/msg-to-eml"]
 	path = Forensics/msg-to-eml
 	url = https://github.com/JoshData/convert-outlook-msg-file.git
+  branch = master
+[submodule "Malware-Analysis/Ghidra"]
+	path = Malware-Analysis/Ghidra
+	url = https://github.com/NationalSecurityAgency/ghidra.git
+  branch = master
