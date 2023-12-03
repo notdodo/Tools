@@ -57,7 +57,7 @@
 [submodule "AD/msldap"]
     path = AD/msldap
     url = https://github.com/skelsec/msldap.git
-    branch = master
+    branch = main
 [submodule "AD/PetitPotam"]
     path = AD/PetitPotam
     url = https://github.com/topotam/PetitPotam.git
