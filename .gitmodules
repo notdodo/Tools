@@ -238,10 +238,6 @@
     path = Forensics/evtx
     url = https://github.com/omerbenamram/evtx.git
     branch = master
-[submodule "Cloud/s3-inspector"]
-    path = Cloud/s3-inspector
-    url = https://github.com/clario-tech/s3-inspector.git
-    branch = master
 [submodule "Cloud/cloud_enum"]
     path = Cloud/cloud_enum
     url = https://github.com/initstring/cloud_enum.git
