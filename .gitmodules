@@ -188,7 +188,7 @@
     branch = master
 [submodule "Mobile/drozer"]
     path = Mobile/drozer
-    url = https://github.com/FSecureLABS/drozer.git
+    url = https://github.com/WithSecureLabs/drozer.git
     branch = master
 [submodule "Cloud/PMapper"]
     path = Cloud/PMapper
